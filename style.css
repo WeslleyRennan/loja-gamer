@@ -34,7 +34,7 @@ nav > h4 > img{
 }
 .container2{
   width: 50%;
-  background-image: url('foto-img.png');
+  background-image: url('img/foto-img.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -97,42 +97,42 @@ h2{
   color: black;
 }
 #jogo1{
-  background-image: url('jogo1.jpeg');
+  background-image: url('img/jogo1.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo2{
-  background-image: url('jogo2.jpeg');
+  background-image: url('img/jogo2.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo3{
-  background-image: url('jogo3.jpeg');
+  background-image: url('img/jogo3.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo4{
-  background-image: url('jogo4.jpeg');
+  background-image: url('img/jogo4.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo5{
-  background-image: url('jogo5.jpeg');
+  background-image: url('img/jogo5.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo6{
-  background-image: url('jogo6.jpeg');
+  background-image: url('img/jogo6.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo7{
-  background-image: url('jogo7.jpeg');
+  background-image: url('img/jogo7.jpeg');
   background-size: cover;
   background-position: center center;
 }
 #jogo8{
-  background-image: url('jogo8.jpeg');
+  background-image: url('img/jogo8.jpeg');
   background-size: cover;
   background-position: center center;
 }
@@ -185,7 +185,7 @@ h2{
   grid-template-columns: 1fr 1fr;
 }
 #controle1{
-  background-image: url('contro1.jpeg');
+  background-image: url('img/contro1.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -195,7 +195,7 @@ h2{
   grid-row-end: 5;
 }
 #controle2{
-  background-image: url('contro2.jpeg');
+  background-image: url('img/contro2.jpeg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -203,7 +203,7 @@ h2{
   grid-row-end: 3;
 }
 #controle3{
-  background-image: url('contro3.jpeg');
+  background-image: url('img/contro3.jpeg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -211,7 +211,7 @@ h2{
   grid-row-end: 5;
 }
 #controle4{
-  background-image: url('contro4.jpeg');
+  background-image: url(' img/contro4.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -221,7 +221,7 @@ h2{
   grid-row-end: 5;
 }
 #controle5{
-  background-image: url('contro5.jpeg');
+  background-image: url('img/contro5.jpeg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -229,7 +229,7 @@ h2{
   grid-row-end: 3;
 }
 #controle6{
-  background-image: url('contro6.jpeg');
+  background-image: url('img/contro6.jpeg');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -252,7 +252,7 @@ h2{
   margin: auto;
 }
 #novidade1{
-  background-image: url('controle.png');
+  background-image: url('img/controle.png');
   background-repeat: no-repeat;
   background-size: 500px;
   background-position: center center;
@@ -292,7 +292,7 @@ h2{
 }
 .box5{
   height: 600px;
-  background-image: url('control-bz.jpg');
+  background-image: url('img/control-bz.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -334,7 +334,7 @@ h2{
   grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: 4;
-  background-image: url('iten1.png');
+  background-image: url('img/iten1.png');
   background-repeat: no-repeat;
   background-size: 300px;
   background-position: center center;
@@ -344,7 +344,7 @@ h2{
    grid-column-end: 3;
    grid-row-start: 1;
    grid-row-end: 3;
-   background-image: url('iten2.png');
+   background-image: url('img/iten2.png');
    background-repeat: no-repeat;
    background-size: 300px;
    background-position: center center;
@@ -354,7 +354,7 @@ h2{
   grid-column-end: 4;
   grid-row-start: 2;
   grid-row-end: 4;
-  background-image: url('iten3.png');
+  background-image: url('img/iten3.png');
   background-repeat: no-repeat;
   background-size: 300px;
   background-position: center center;

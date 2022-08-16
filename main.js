@@ -62,3 +62,9 @@ button4.addEventListener("click", function() {
   }
 
 })
+
+ window.sr = ScrollReveal({ reset: true })
+sr.reveal('.box1', { duration: 2500 })
+sr.reveal('.caixa3', { duration: 2500 })
+sr.reveal('.caixa4', { duration: 2500 })
+sr.reveal('.caixa5', { duration: 2500 })

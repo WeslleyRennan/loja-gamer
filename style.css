@@ -416,6 +416,9 @@ ul{
 
   transition: transform 0.5s;
 }
+.caixa3,.caixa4,.caixa5{
+  visibility: hidden;
+}
 @media screen and (max-width: 926px){
    .box1{
     height: 600px;
